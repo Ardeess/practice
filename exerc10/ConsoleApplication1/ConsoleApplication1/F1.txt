@@ -1,0 +1,3 @@
+Programming is the art of creating computer programs. Programs consist of algorithms and data structures.
+In C++ language we use different constructs: loops, conditions, functions. Syntax matters!
+Frequency analysis helps to study text features. Letter repetition is an interesting characteristic.
